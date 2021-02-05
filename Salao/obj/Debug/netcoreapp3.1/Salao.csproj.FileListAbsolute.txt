@@ -1,0 +1,16 @@
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.exe
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.deps.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.runtimeconfig.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.runtimeconfig.dev.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.Dominio.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\bin\Debug\netcoreapp3.1\Salao.Dominio.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.csprojAssemblyReference.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.AssemblyInfoInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.AssemblyInfo.cs
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.csproj.CoreCompileInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.csproj.CopyComplete
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao\obj\Debug\netcoreapp3.1\Salao.genruntimeconfig.cache

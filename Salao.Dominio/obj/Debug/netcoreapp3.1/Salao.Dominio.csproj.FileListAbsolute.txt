@@ -1,0 +1,9 @@
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\bin\Debug\netcoreapp3.1\Salao.Dominio.deps.json
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\bin\Debug\netcoreapp3.1\Salao.Dominio.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\bin\Debug\netcoreapp3.1\Salao.Dominio.pdb
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.csprojAssemblyReference.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.AssemblyInfoInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.AssemblyInfo.cs
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.dll
+C:\Users\bramo\Área de Trabalho\Desenvolvimento\CampinasTech\Exercicios\Salao\Salao\Salao.Dominio\obj\Debug\netcoreapp3.1\Salao.Dominio.pdb

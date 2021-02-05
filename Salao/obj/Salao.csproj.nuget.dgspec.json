@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao\\Salao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\Salao.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\Salao.Dominio.csproj",
+        "projectName": "Salao.Dominio",
+        "projectPath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\Salao.Dominio.csproj",
+        "packagesPath": "C:\\Users\\bramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao\\Salao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao\\Salao.csproj",
+        "projectName": "Salao",
+        "projectPath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao\\Salao.csproj",
+        "packagesPath": "C:\\Users\\bramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\Salao.Dominio.csproj": {
+                "projectPath": "C:\\Users\\bramo\\Área de Trabalho\\Desenvolvimento\\CampinasTech\\Exercicios\\Salao\\Salao\\Salao.Dominio\\Salao.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
